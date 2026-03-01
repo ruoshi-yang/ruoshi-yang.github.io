@@ -10,7 +10,7 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url:/files/Ruoshi_Yang_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
