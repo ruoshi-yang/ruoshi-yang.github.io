@@ -9,4 +9,6 @@ redirect_from:
 
 Thanks for visiting!
 
-I am a PhD student in Quantitative Marketing at UCL School of Management, University College London. I hold an MA in Policy Research from University of Chicago and a BA in Economics from Wuhan University.
+I am a PhD student in Quantitative Marketing at UCL School of Management, University College London. I hold an MA in Policy Research from University of Chicago and a BA in Economics from Wuhan University. My research interests primarily focus on digital platforms, behavioral economics and policy interventions. You could find my [CV]() here.
+
+Always happy to chat!
