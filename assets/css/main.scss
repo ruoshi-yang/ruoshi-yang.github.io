@@ -42,11 +42,50 @@
     "vendor/font-awesome/brands"
 ;
 
-body {
+
+/* --- Global font (Palatino / mathpazo vibe) --- */
+html, body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-h1, h2, h3, h4 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-weight: 600;
+/* Main content containers */
+.page__content,
+.archive__item,
+.entries-list,
+.list__item {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+/* Header + navigation */
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav a,
+.site-title,
+.site-subtitle {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+/* Sidebar (author profile) */
+.sidebar,
+.sidebar *,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls a {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+/* Buttons / form elements */
+button,
+input,
+select,
+textarea {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+/* Keep code blocks monospaced */
+code, pre, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
