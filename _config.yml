@@ -23,7 +23,7 @@ repository               : "ruoshi-yang/ruoshi-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/myphoto.png"
   name             : "Ruoshi Yang"
   bio              : "PhD Student in Marketing"
   uri              : "https://ruoshi-yang.github.io"
