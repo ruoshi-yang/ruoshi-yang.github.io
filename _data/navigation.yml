@@ -7,10 +7,13 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
 
+main:
   - title: "CV"
-    url:/files/CV_Ruoshi.pdf
+    url: /files/CV_Ruoshi.pdf
+
+  # - title: "CV"
+  #   url: /cv-json/
     
   # - title: "CV"
   #   url: /cv-json/
